@@ -91,7 +91,6 @@
           <xyz>0 1 0</xyz>
         </axis>
       </joint>
-
       <joint type="revolute" name="right_wheel_hinge">
         <pose>0 0 0.03 0 0 0</pose>
         <child>right_wheel</child>
